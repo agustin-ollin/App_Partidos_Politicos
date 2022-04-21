@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VotApp</string>
+    <string name="titleApp">Elecciones 2022</string>
+    <string name="btnResultados">Resultados</string>
+    <string name="etqTitleResult">Tabla de Resultados</string>
+    <string name="colCantidad">Votos</string>
+    <string name="colPorcentaje">%</string>
+
+    <string name="etqVacia">---------</string>
+
+    <string name="btnPan">PAN</string>
+    <string name="btnPrd">PRD</string>
+    <string name="btnPri">PRI</string>
+    <string name="btnPt">PT</string>
+    <string name="btnVerde">VERDE</string>
+    <string name="btnAlianza">ALIANZA</string>
+
+    <string name="etqCantidadVotos">Total de votos:</string>
+</resources>
